@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+ 
+.holder{
+	display:flex;
+	flex-flow:wrap;
+ justify-content:center;
+ 
+}
+ 
+ 
+ 
+.item1{
+	padding:23px;
+	background-color:red;
+	margin:2px;
+}
+.item2{
+	padding:23px;
+	background-color:red;
+	margin:2px;
+}
+.item3{
+	padding:23px;
+	background-color:red;
+	margin:2px;
+}
